@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 	
-<img align="right" width="400" height="400" src="https://instagram.fitp1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p640x640/236255817_1235594190206457_2855407933244260846_n.jpg?_nc_ht=instagram.fitp1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=7Ut8E9XCQKAAX_KY1me&edm=AABBvjUBAAAA&ccb=7-4&oh=d235b329042a47aedd14eb23e96a572a&oe=61510A7E&_nc_sid=83d603">
+<img align="right" width="320" height="400" src="https://instagram.fitp1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p640x640/236255817_1235594190206457_2855407933244260846_n.jpg?_nc_ht=instagram.fitp1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=7Ut8E9XCQKAAX_KY1me&edm=AABBvjUBAAAA&ccb=7-4&oh=d235b329042a47aedd14eb23e96a572a&oe=61510A7E&_nc_sid=83d603">
  
 # Welcome! 👋
  
