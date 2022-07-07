@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 	
-<img align="right" width="320" height="400" src="https://lh3.googleusercontent.com/a-/AOh14Ggd9aatPte7dVOKR3DCgiZW8wtJ_6m4E-k3SuMP=s288-p-rw-no">
+<img align="right" width="320" height="320" src="https://lh3.googleusercontent.com/a-/AOh14Ggd9aatPte7dVOKR3DCgiZW8wtJ_6m4E-k3SuMP=s288-p-rw-no">
  
 # Welcome! 👋
  
