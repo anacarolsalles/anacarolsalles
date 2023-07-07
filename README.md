@@ -22,9 +22,10 @@ Here are some ideas to get you started:
  
 Former Architect, now learning HTML, CSS, JavaScript and Vue.js
  
-- 🔭 I’m currently working on LEARN EVERYTHING I CAN ABOUT PROGRAMMING
-- 🌱 I’m currently learning Vue.js
-- 🤔 I’m looking for help to found an opportunity as a Junior Front-end Developer
+- 🔭 I am currently working as an intern at PartnerFleet as a front-end developer
+- 🌱 I am currently learning English and JavaScript
+- 📫 How to reach me: anasallesdev@gmail.com
+- 😄 Pronouns: She / Her
 
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/anacarolsalles)](https://github.com/anacarolsalles)
