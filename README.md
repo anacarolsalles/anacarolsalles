@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  
 Former Architect, now learning HTML, CSS, JavaScript and Vue.js
  
-- 🔭 I am currently working as an intern at PartnerFleet as a front-end developer
+- 🔭 I am currently working as an intern at Partner Fleet as a front-end developer
 - 🌱 I am currently learning English and JavaScript
 - 📫 How to reach me: anasallesdev@gmail.com
 - 😄 Pronouns: She / Her
