@@ -30,7 +30,7 @@ Former Architect, now learning HTML, CSS, JavaScript and Vue.js
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/anacarolsalles)](https://github.com/anacarolsalles)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anacarolsalles/)](https://www.linkedin.com/in/anacarolsalles/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anasallesales@gmail.com)](mailto:anasallesales@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anasallesales@gmail.com)](mailto:anasallesdev@gmail.com)
  
 - Thanks for visiting. 
  
