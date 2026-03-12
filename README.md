@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=200&section=header&text=Ana%20Salles&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2ecc71&height=200&section=header&text=Ana%20Salles&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=F75C7E&size=25&center=true&vCenter=true&width=600&lines=Front-End+Developer;Former+Architect;Vue.js+Developer;Passionate+about+UI+Development"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=0f2027&size=25&center=true&vCenter=true&width=600&lines=Front-End+Developer;Former+Architect;Vue.js+Developer;Passionate+about+UI+Development"/>
 </p>
 
 ---
