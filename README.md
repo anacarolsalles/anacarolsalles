@@ -48,12 +48,6 @@ Today I work in the **technology field**, focusing on **Front-End Development**,
 
 ---
 
-# 📊 GitHub Stats
-
-![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=anacarolsalles&show_icons=true&theme=tokyonight)
-
----
-
 # 🔥 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolsalles&layout=compact&theme=tokyonight)
